@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi 🖐️, I'm Iván Matus Angulo
+# Iván Matus Angulo
 ### A passionate Python developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MaThUZiB&color=blueviolet&style=for-the-badge)](https://github.com/MaThUZiB)
 
-💼 **Portafolio:** [mathuzib.github.io/Portafolios](https://mathuzib.github.io/Portafolios/)
+**Portafolio:** [mathuzib.github.io/Portafolios](https://mathuzib.github.io/Portafolios/)
 
 ---
 
