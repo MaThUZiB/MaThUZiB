@@ -1,23 +1,22 @@
-# Hi 👋, I'm Iván Matus Angulo
+<div align="center">
 
+# Hi 🖐️, I'm Iván Matus Angulo
 ### A passionate Python developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MaThUZiB&label=Profile%20views&color=0e75b6&style=flat" alt="MaThUZiB" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=MaThUZiB&color=blueviolet&style=for-the-badge)](https://github.com/MaThUZiB)
 
-- 👨‍💻 All of my projects are available at [https://mathuzib.github.io/Portafolios/](https://mathuzib.github.io/Portafolios/)
+💼 **Portafolio:** [mathuzib.github.io/Portafolios](https://mathuzib.github.io/Portafolios/)
 
 ---
 
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://github.com/MaThUZiB" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/MaThUZiB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/_.mathuz/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/_.mathuz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -25,9 +24,9 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,tailwind,js,react,nextjs,vue,nodejs,express,django,flask,laravel,php,kotlin,postgres,mysql,mongodb,sqlite,docker,aws,azure,firebase,git,linux,figma,unity,arduino" alt="mis-habilidades" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,tailwind,js,react,next,vue,nodejs,express,django,flask,laravel,php,postgres,mysql,mongodb,sqlite,docker,aws,azure,firebase,git,figma,unity,arduino&perline=9" alt="Languages and Tools" />
   </a>
 </p>
 
@@ -35,7 +34,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaThUZiB&show_icons=true&locale=en&layout=compact" alt="Lenguajes más usados" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=MaThUZiB&show_icons=true&locale=en" alt="Estadísticas de GitHub" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaThUZiB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+</div>
